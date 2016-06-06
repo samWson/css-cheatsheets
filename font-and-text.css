@@ -1,0 +1,19 @@
+/* Font and Text Properties */
+
+/* font-family */
+/* Note that fonts will only be displayed if they are avaliable on the computer being used */
+#arial {
+    font-family: arial;
+}
+
+#times {
+    font-family: times;
+}
+
+#georgia {
+    font-family: georgia;
+}
+
+#sans-serif {
+    font-famliy: sans-serif;
+}
